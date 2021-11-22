@@ -1,5 +1,5 @@
 # khoa-lib-s100fc
-Visual C++ S-100 Feature Catalogue library
+Visual C++ IHO S-100 Feature Catalogue library
 
 ## Major features
 - Read a feature catalogue. 
