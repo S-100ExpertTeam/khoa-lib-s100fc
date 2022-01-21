@@ -150,7 +150,7 @@
       </Command>
     </PostBuildEvent>
     <Lib>
-      <AdditionalDependencies>pugixml.lib</AdditionalDependencies>
+      <AdditionalDependencies>..\extlibs\pugixml\x64_Debug\pugixml.lib</AdditionalDependencies>
     </Lib>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -216,7 +216,7 @@
       </Command>
     </PostBuildEvent>
     <Lib>
-      <AdditionalDependencies>pugixml.lib</AdditionalDependencies>
+      <AdditionalDependencies>..\extlibs\pugixml\x64_Release\pugixml.lib</AdditionalDependencies>
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
