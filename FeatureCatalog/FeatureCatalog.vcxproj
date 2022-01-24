@@ -359,11 +359,6 @@
     <ClInclude Include="XML_Item.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DLL_MessageProcess\DLL_MessageProcess.vcxproj">
-      <Project>{c5954b5e-ec94-478f-8f99-3adcba00b70a}</Project>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <ResourceCompile Include="FeatureCatalog.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
